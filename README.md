@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/hNUSm7B" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/hNUSm7B.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Sylwia </h1>
 <h3 align="center">I'm na enthusiastic, aspiring Front-end Developer. I became a hugh fan of coding, after I realised how satisfying would be to be able to take care of all the small details that together create wonderfull websites. Once I walked on this magic path, now I want to develop and gain new skills.</h3>
